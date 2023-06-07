@@ -9,4 +9,3 @@ public class Main {
             System.out.println("Your number, " + numToExamine + ", is odd.");
     }
 }
-
